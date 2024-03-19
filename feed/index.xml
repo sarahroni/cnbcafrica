@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>UK NFT</title>
+	<title>Staging cnb</title>
 	<atom:link href="https://staging.cnbcafrica.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://staging.cnbcafrica.com/</link>
 	<description></description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.3.3</generator>
 
 <image>
-	<url>https://staging.cnbcafrica.com/wp-content/uploads/2024/03/cropped-cropped-Info-Pattern-2024-03-20T024612.292-32x32.png</url>
-	<title>UK NFT</title>
+	<url>https://staging.cnbcafrica.com/wp-content/uploads/2024/03/cropped-Info-Pattern-2024-03-20T040002.054-1-32x32.png</url>
+	<title>Staging cnb</title>
 	<link>https://staging.cnbcafrica.com/</link>
 	<width>32</width>
 	<height>32</height>
